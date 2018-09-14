@@ -1,17 +1,15 @@
-# Software Carpentry @ EMBL 2017
+# Software Carpentry @ EMBL 2018
 
-Materials for Software Carpentry workshop at the European Molecular Biology Laboratory, October 2017. Course organised by 
+Materials for Software Carpentry workshop at the European Molecular Biology Laboratory, October 2018. Course organised by 
 [EMBL Bio-IT](https://bio-it.embl.de) and [the German Network for Bioinformatics Infrastructure (de.NBI)](http://www.denbi.de).
 
 ### Instructors
 
 - Toby Hodges
-- Malvika Sharan
-- Luis Pedro Coelho
+- Holger Dinkel
 - Frank Thommen
 - Mike Smith
 - Thomas Schwarzl
-- Georg Zeller
 
 ### Other Workshop Materials
 
@@ -25,13 +23,17 @@ Tom's Snakemake lesson material: https://git.embl.de/schwarzl/snakemake-tutorial
 
 ### Links
 
-Workshop Etherpad: http://pad.software-carpentry.org/embl2017
+Workshop Etherpad: https://pad.carpentries.org/swc_embl_2018
 
-Workshop homepage: [tobyhodges.github.io/2017-10-17-heidelberg/](https://tobyhodges.github.io/2017-10-17-heidelberg/)
+Workshop homepage: [tobyhodges.github.io/2018-10-16-heidelberg/](https://tobyhodges.github.io/2018-10-16-heidelberg/)
 
-Workshop info page: [www.embl.de/training/events/2017/SWC17-01/index.html](https://www.embl.de/training/events/2017/SWC17-01/index.html)
+Workshop info page: [www.embl.de/training/events/2018/SWC18-01/index.html](https://www.embl.de/training/events/2018/SWC18-01/index.html)
 
 Software Carpentry: [software-carpentry.org](https://software-carpentry.org/)
+
+The Carpentries: [carpentries.org](https://carpentries.org)
+
+EMBL Bio-IT: [bio-it.embl.de](https://bio-it.embl.de)
 
 EMBL: [embl.de](https://embl.de)
 
