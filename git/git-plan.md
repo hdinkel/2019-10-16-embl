@@ -42,7 +42,6 @@
   - imagine your future self as a collaborator, who won't know (remember) why you made the changes you're making
 - `git add`
 - `git commit -m`
-- `git commit -a`
 - `git log`
   - `git log -N`
   - `git log --oneline`
