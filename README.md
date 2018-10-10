@@ -17,7 +17,7 @@ The updated DNA nucleotide counting script from Toby's coding style/debugging se
 
 Luis' Git intro talk material: https://github.com/luispedro/talk-git-intro
 
-Mike's HPC lesson material: https://github.com/grimbough/embl_swc_hpc
+Mike's HPC lesson material: https://github.com/grimbough/swc_hpc
 
 Tom's Snakemake lesson material: https://git.embl.de/schwarzl/snakemake-tutorial/tree/master
 
