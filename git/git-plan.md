@@ -10,7 +10,7 @@
 ## GitHub
 
 - look at an example repo
-    - e.g. this one? One of the Software Carpentry lessons? any other suggestions?
+    - e.g. https://github.com/tobyhodges/software-carpentry-embl-2018
     - basic structure of 'front page' - list of files, README rendered, commit messages, last modified time, contributors
     - look at graph of history, branches, commit messages and codes
     - open an example file, use blame to look at when a line was added/most recently changed, and by whom
@@ -31,26 +31,28 @@
 - navigate to relevant directory
 - clone repo
 - change global settings
-  - `git config --global user.name`
+  - `git config --global "user name"`
   - `git config --global user.email`
   - `git config --global core.editor "nano -w"`
 - mention `git init`
 - `git status`
 - `git add`
+- `git status`
 - `git commit`
   - commit messages
   - imagine your future self as a collaborator, who won't know (remember) why you made the changes you're making
+- `git status`
 - `git add`
 - `git commit -m`
 - `git log`
-  - `git log -N`
+  - `git log -1`
   - `git log --oneline`
-  - `git log --patch <filename>`
+  - `git log --oneline --graph --all --decorate`
 - `git diff`
-  - `git add + git diff --staged`
+  - `git add` + `git diff --staged`
   - `git diff --color-words`
-  - `git diff HEAD~2 <filename>`
   - `git diff <commithash> <filename>`
+  - `git diff HEAD~2 <filename>`
 - `git checkout HEAD` to revert to most recent committed state
   - `git checkout HEAD <filename>` to achieve the same thing with a single file
 - detached head!
