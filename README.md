@@ -23,7 +23,7 @@ Tom's Snakemake lesson material: https://git.embl.de/schwarzl/snakemake-tutorial
 
 ### Links
 
-Workshop Etherpad: https://pad.carpentries.org/swc_embl_2018
+Workshop Etherpad: https://pad.carpentries.org/2018-10-16-heidelberg
 
 Workshop homepage: [tobyhodges.github.io/2018-10-16-heidelberg/](https://tobyhodges.github.io/2018-10-16-heidelberg/)
 
