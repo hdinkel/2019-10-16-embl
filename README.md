@@ -21,6 +21,7 @@ Mike's HPC lesson material: https://github.com/grimbough/swc_hpc
 
 Tom's Snakemake lesson material: https://git.embl.de/schwarzl/snakemake-tutorial/tree/master
 
+
 ### Links
 
 Workshop Etherpad: https://pad.carpentries.org/2018-10-16-heidelberg
