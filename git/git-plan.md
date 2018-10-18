@@ -31,8 +31,8 @@
 - navigate to relevant directory
 - clone repo
 - change global settings
-  - `git config --global "user name"`
-  - `git config --global user.email`
+  - `git config --global user.name "user name"`
+  - `git config --global user.email username@host.com`
   - `git config --global core.editor "nano -w"`
 - mention `git init`
 - `git status`
