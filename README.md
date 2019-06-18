@@ -1,11 +1,12 @@
-# Software Carpentry @ EMBL 2018
+# Software Carpentry @ EMBL 2019
 
-Materials for Software Carpentry workshop at the European Molecular Biology Laboratory, October 2018. Course organised by 
+Materials for Software Carpentry workshop at the European Molecular Biology Laboratory, 16 - 18 October 2019. Course organised by 
 [EMBL Bio-IT](https://bio-it.embl.de) and [the German Network for Bioinformatics Infrastructure (de.NBI)](http://www.denbi.de).
 
 ### Instructors
 
-- Toby Hodges
+- Malvika Sharan
+- Toby Hodges (TBC)
 - Holger Dinkel
 - Frank Thommen
 - Mike Smith
@@ -13,7 +14,7 @@ Materials for Software Carpentry workshop at the European Molecular Biology Labo
 
 ### Other Workshop Materials
 
-The updated DNA nucleotide counting script from Toby's coding style/debugging session: https://github.com/tobyhodges/debugging-and-style/blob/swc_embl_2017/README.md
+The updated DNA nucleotide counting script from debugging session: https://github.com/tobyhodges/debugging-and-style/blob/swc_embl_2017/README.md
 
 Luis' Git intro talk material: https://github.com/luispedro/talk-git-intro
 
@@ -24,11 +25,11 @@ Tom's Snakemake lesson material: https://git.embl.de/schwarzl/snakemake-tutorial
 
 ### Links
 
-Workshop Etherpad: https://pad.carpentries.org/2018-10-16-heidelberg
+Workshop Etherpad: https://pad.carpentries.org/2019-10-16-embl
 
-Workshop homepage: [tobyhodges.github.io/2018-10-16-heidelberg/](https://tobyhodges.github.io/2018-10-16-heidelberg/)
+Workshop homepage: [tobyhodges.github.io/2019-10-16-embl](https://tobyhodges.github.io/2018-10-16-embl)
 
-Workshop info page: [www.embl.de/training/events/2018/SWC18-01/index.html](https://www.embl.de/training/events/2018/SWC18-01/index.html)
+Workshop info page: [https://www.embl.de/training/events/2019/SWC19-01/](https://www.embl.de/training/events/2019/SWC19-01/)
 
 Software Carpentry: [software-carpentry.org](https://software-carpentry.org/)
 
