@@ -27,7 +27,7 @@ Tom's Snakemake lesson material: https://git.embl.de/schwarzl/snakemake-tutorial
 
 Workshop Etherpad: https://pad.carpentries.org/2019-10-16-embl
 
-Workshop homepage: [tobyhodges.github.io/2019-10-16-embl](https://tobyhodges.github.io/2018-10-16-embl)
+Workshop homepage: [https://malvikasharan.github.io/2019-10-16-heidelberg/](https://malvikasharan.github.io/2019-10-16-heidelberg/)
 
 Workshop info page: [https://www.embl.de/training/events/2019/SWC19-01/](https://www.embl.de/training/events/2019/SWC19-01/)
 
